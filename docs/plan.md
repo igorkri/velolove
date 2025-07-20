@@ -19,8 +19,8 @@
 
 ### Инициализация проекта
 ```bash
-npx create-react-app velolove --template typescript
-cd velolove
+npx create-react-app velo-love-shop --template typescript
+cd velo-love-shop
 ```
 
 ### Установка основных зависимостей
